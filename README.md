@@ -39,9 +39,10 @@ For more detailed information and user guides, please refer to our [Documentatio
 
 ## Team Members
 
-- Austin Dsouza
-- Sakshi Bhawar
-- Gauri Desai
+- Pritam Temkar
+- Yash Patil
+- Navin
+- Ronald Menezes
 
 ## Contributing
 
